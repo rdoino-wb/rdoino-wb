@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @rdoino-wb
-- 👀 I’m interested in using data analyis to provide policymaking with data-driven and impact-oriented toolkit
-- 🌱 I’m currently working at DIME WORLD BANK
-- 📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/ruggero-d-41235b89
-  - Email   : ruggerodoino@gmail.com
-
-<!---
-rdoino-wb/rdoino-wb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇮🇹 Roman by birth, Milanese by education, and Parisian by choice. 
+🗺️ Globe-trotter with a cause: Impact Evaluation in Development. 
+📊 DIME-ing at the World Bank. 
+🖥️ R enthusiast who knows that style matters—big on Quarto, HTML, CSS. 
+👾 Making data sexy for governments
